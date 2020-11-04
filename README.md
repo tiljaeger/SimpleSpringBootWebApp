@@ -1,8 +1,6 @@
 # SimpleSpringBootWebApp
 a simple todo management application using Spring MVC and Springboot
 
-<img src="todos.gif"/>
-
 - Spring MVC Controller, @ResponseBody, @Controller
 - Redirect to Login JSP - LoginController, @ResponseBody and View Resolver
 - DispatcherServlet and Spring MVC Flow
@@ -17,3 +15,6 @@ a simple todo management application using Spring MVC and Springboot
 - Spring Security Setup
 - Refactor and add Logout Functionality using Spring Security
 - Exception Handling
+
+<img src="todos.gif"/>
+
