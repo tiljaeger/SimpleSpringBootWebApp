@@ -1,4 +1,4 @@
-# SimpleSpringWebApp
+# SimpleSpringBootWebApp
 a simple todo management application using Spring MVC and Springboot
 
 - Spring MVC Controller, @ResponseBody, @Controller
